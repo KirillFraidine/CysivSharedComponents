@@ -1,0 +1,19 @@
+{
+  "name": "sharedcomponentsmodule",
+  "version": "1.0.0",
+  "description": "Testing Components",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KirillFraidine/CysivSharedComponents.git"
+  },
+  "author": "KirillFraidine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KirillFraidine/CysivSharedComponents/issues"
+  },
+  "homepage": "https://github.com/KirillFraidine/CysivSharedComponents#readme"
+}
